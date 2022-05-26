@@ -1,0 +1,10 @@
+1000*C++*3
+1001*C#*4
+1002*Java*4
+1003*Python*4
+1004*Data struct*3
+1005*Android*5
+1006*Kotlin*3
+1007*SQL*3
+1008*JavaScript*3
+1009*Lap trinh web*4

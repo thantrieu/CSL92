@@ -1,0 +1,9 @@
+10000*1000*Ngô Quang Đại*50*null
+10001*1002*Ngô Quang Đại*50*null
+10002*1001*Lê Thu Hà*40*null
+10003*1002*Hoàng Việt Cường*50*null
+10004*1002*Ma Quốc Chuyên*45*null
+10005*1003*Nguyễn Văn Vĩnh*40*null
+10006*1001*Trần Văn Vinh*60*null
+10007*1001*Trần Văn Vinh*50*null
+10008*1009*Hoang Van Van*40*null
